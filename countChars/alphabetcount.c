@@ -2,11 +2,6 @@
  * alphabetcount.c - this file implements the alphabetlettercount function.
  */
 
-/* AUTHOR: SCHUYLER WANG
- * cssc1766@edoras.sdsu.edu
- * DATE: JUNE 30, 2023
- */
-
 #include <stdio.h>
 #include <dirent.h>
 #include <string.h>
